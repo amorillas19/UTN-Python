@@ -1,7 +1,8 @@
 #Ejercicio 10
 
-a=10
-b=3.0
-c=a*b
-d=a+b
-print(a,b,c,d)
+palabra1="hola"
+palabra2="gracias"
+palabra3="Casa"
+palabra4="casa"
+
+print(palabra3<palabra4)
